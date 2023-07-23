@@ -3,7 +3,7 @@ import HomeScreen from '../screens/HomeScreen'
 import ProductDetails from '../screens/ProductDetails'
 import Cart from '../components/Cart'
 // import Login from '../components/Login'
-import LoginScreen from '../screens/LoginScreen';
+import LoginScreen from '../screens/loginScreen';
 import RegisterScreen from "../screens/RegisterScreen";
 import ProfileScreen from '../screens/ProfileScreen';
 const Routes=()=>{
